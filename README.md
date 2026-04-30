@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm L-Esquivel 👋
 
-<!--
-**L-Esquivel/L-Esquivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilingual **IT Support Professional** transitioning into **Cybersecurity**. I combine a solid foundation in networking (Cisco) with 300+ hours of software development experience (Python & SQL) to build secure and automated solutions.
 
-Here are some ideas to get you started:
+### 🛡️ Areas of Interest
+- **Defensive Security:** Log analysis, threat detection, and SIEM management.
+- **Automation:** Developing Python scripts for security auditing and task efficiency.
+- **Cloud Infrastructure:** Securing environments within Google Cloud Platform (GCP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Professional Certifications (2026 Cohort)
+- **Google Cybersecurity Professional Certificate** (In Progress) 🛡️
+- **Google Cloud Cybersecurity** (In Progress) ☁️
+- **Google IT Support Professional Certificate** (In Progress) 💻
+- **Amazon Junior Software Developer** 🚀
+- **Cisco IT Support Career Path** (Completed) ✅
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Bash.
+- **Networking:** TCP/IP, Routing & Switching, Network Security (Cisco Stack).
+- **OS:** Linux (CLI), Windows Server, MacOS.
+
+---
+📫 **Let's Connect!**
+www.linkedin.com/in/luisalejandroesquivelrojas | luisalejandroesquivelrojas@gmail.com
