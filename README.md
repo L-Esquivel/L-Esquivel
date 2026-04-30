@@ -1,4 +1,4 @@
-# Hi, I'm L-Esquivel 👋
+# Hi, I'm Luis Esquivel 👋
 
 Bilingual **IT Support Professional** transitioning into **Cybersecurity**. I combine a solid foundation in networking (Cisco) with 300+ hours of software development experience (Python & SQL) to build secure and automated solutions.
 
