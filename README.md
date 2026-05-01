@@ -11,6 +11,7 @@ IT Support professional with strong networking foundation (Cisco) transitioning 
 - **Compliance & Hardening**: CIS Benchmarks, network security, and infrastructure optimization
 
 ### 📚 Certifications (2026 Cohort)
+- **Google AI Professional Certificate** → Completed ✅
 - **Google Cybersecurity Professional Certificate** → In Progress
 - **Google Cloud Cybersecurity** → In Progress
 - **Google IT Support Professional Certificate** → In Progress
