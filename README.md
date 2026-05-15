@@ -2,7 +2,7 @@
 
 **Full-Stack Software Developer | Security-Minded Architect | C1 Bilingual**
 
-[cite_start]I am a Developer with a unique edge: I combine the rigor of **Criminal Investigation and Forensic Sciences** with high-performance **Full-Stack Engineering**. I specialize in building scalable, secure, and data-driven SaaS solutions that solve real-world operational bottlenecks.
+I am a Developer with a unique edge: I combine the rigor of **Criminal Investigation and Forensic Sciences** with high-performance **Full-Stack Engineering**. I specialize in building scalable, secure, and data-driven SaaS solutions that solve real-world operational bottlenecks.
 
 ### 🚀 Featured Project: Precivox BI SaaS
 **Precivox** is a production-grade Multi-Tenant Business Intelligence platform designed for SMEs.
@@ -18,16 +18,16 @@
 
 ### 🛠️ Tech Stack
 
-* [cite_start]**Frontend**: React 18, TypeScript, JavaScript (ES6+), Mantine UI, Bootstrap 5.
-* [cite_start]**Backend**: Python (Flask/FastAPI), Node.js, RESTful APIs, RBAC Security.
-* [cite_start]**Data & Infrastructure**: PostgreSQL, MySQL, Docker, Linux (Ubuntu Server), Git/GitHub.
-* [cite_start]**Security & Forensics**: Log Analysis, SQL Injection Prevention, CORS Hardening, Rate Limiting.
+* **Frontend**: React 18, TypeScript, JavaScript (ES6+), Mantine UI, Bootstrap 5.
+* **Backend**: Python (Flask/FastAPI), Node.js, RESTful APIs, RBAC Security.
+* **Data & Infrastructure**: PostgreSQL, MySQL, Docker, Linux (Ubuntu Server), Git/GitHub.
+* **Security & Forensics**: Log Analysis, SQL Injection Prevention, CORS Hardening, Rate Limiting.
 
 ### 🛡️ Areas of Interest
 
-* [cite_start]**SaaS Architecture**: Multi-tenancy, scalability, and high-volume data processing.
-* [cite_start]**Security Automation**: Building self-healing and secure-by-design backend infrastructures.
-* [cite_start]**Fintech & Lead Gen**: Optimizing financial flows and real-time data validation.
+* **SaaS Architecture**: Multi-tenancy, scalability, and high-volume data processing.
+* **Security Automation**: Building self-healing and secure-by-design backend infrastructures.
+* **Fintech & Lead Gen**: Optimizing financial flows and real-time data validation.
 
 
 ---
@@ -37,4 +37,4 @@
 
 ---
 **Open to remote opportunities as a Junior/Mid Full-Stack Developer, Backend Engineer, or Security-Focused Developer.**
-[cite_start]*Target Rate: $15 - $20 USD/hour*[cite: 57, 59].
+*Target Rate: $15 - $20 USD/hour*.
