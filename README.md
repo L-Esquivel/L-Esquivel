@@ -8,7 +8,7 @@
 **Precivox** is a production-grade Multi-Tenant Business Intelligence platform designed for SMEs.
 - **Core Engine**: Advanced mathematical costing engine factoring in depreciation, margins, and waste.
 - **Stack**: Python (Flask), React 18, PostgreSQL, and Docker.
-- [cite_start]**Impact**: Optimized bakery operations by 95% in calculation speed and 90% in manual tasks[cite: 7].
+- **Impact**: Optimized bakery operations by 95% in calculation speed and 90% in manual tasks[cite: 7].
 - [Explore the Repository](https://github.com/L-Esquivel/Precivox)
 
 ### 📚 Professional Certifications (2026 Cohort)
