@@ -1,38 +1,34 @@
-# Hi, I'm Luis Alejandro Esquivel 👋
+# Hi, I'm Luis Alejandro Esquivel 👋 
 
-**Bilingual Cybersecurity Analyst in Training | IT Support Specialist (Cisco Certified) | Python & SQL Developer**
+**Full-Stack Software Developer | Security-Minded Architect | C1 Bilingual**
 
-IT Support professional with strong networking foundation (Cisco) transitioning into Cybersecurity. Combining hands-on IT experience with 300+ hours of Python & SQL development to build secure, automated, and efficient solutions.
+[cite_start]I am a Developer with a unique edge: I combine the rigor of **Criminal Investigation and Forensic Sciences** with high-performance **Full-Stack Engineering**[cite: 5, 10]. [cite_start]I specialize in building scalable, secure, and data-driven SaaS solutions that solve real-world operational bottlenecks[cite: 63, 67].
 
-### 🛡️ Areas of Interest
-- **Defensive Security**: Log analysis, threat detection, and SIEM management
-- **Security Automation**: Python scripts for auditing, monitoring, and incident response
-- **Cloud Security**: Securing infrastructure on Google Cloud Platform (GCP)
-- **Compliance & Hardening**: CIS Benchmarks, network security, and infrastructure optimization
+### 🚀 Featured Project: Precivox BI SaaS
+**Precivox** is a production-grade Multi-Tenant Business Intelligence platform designed for SMEs.
+- **Core Engine**: Advanced mathematical costing engine factoring in depreciation, margins, and waste.
+- **Stack**: Python (Flask), React 18, PostgreSQL, and Docker.
+- [cite_start]**Impact**: Optimized bakery operations by 95% in calculation speed and 90% in manual tasks[cite: 7].
+- [Explore the Repository](https://github.com/L-Esquivel/Precivox)
 
-### 📚 Certifications (2026 Cohort)
-- **Google AI Professional Certificate** → Completed ✅
-- **Google Cybersecurity Professional Certificate** → In Progress
-- **Google Cloud Cybersecurity** → In Progress
-- **Google IT Support Professional Certificate** → In Progress
-- **Cisco IT Support & Networking Career Path** → Completed ✅
-- **Amazon Junior Software Developer** → Completed
+### 📚 Professional Certifications (2026 Cohort)
+
+* **Completed ✅**: Google AI Professional | Cisco IT Support Specialist | Power BI Interactive Dashboards | [cite_start]Foundations of Cybersecurity[cite: 14, 15, 94].
+* **In Progress ⏳**: AWS Certified Junior Software Developer | Google Project Management Professional | Google Cybersecurity Professional | [cite_start]Google Cloud Security[cite: 17, 18, 96].
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, SQL, Bash
-- **Networking**: TCP/IP, Routing & Switching, Network Security (Cisco)
-- **Security**: Linux CLI, File Integrity Monitoring, Compliance Auditing, Log Analysis
-- **OS/Platforms**: Linux, Windows Server, macOS, GCP (in progress)
 
----
+* [cite_start]**Frontend**: React 18, TypeScript, JavaScript (ES6+), Mantine UI, Bootstrap 5[cite: 12, 82].
+* [cite_start]**Backend**: Python (Flask/FastAPI), Node.js, RESTful APIs, RBAC Security[cite: 12, 84].
+* [cite_start]**Data & Infrastructure**: PostgreSQL, MySQL, Docker, Linux (Ubuntu Server), Git/GitHub[cite: 12, 86].
+* [cite_start]**Security & Forensics**: Log Analysis, SQL Injection Prevention, CORS Hardening, Rate Limiting[cite: 12, 22].
 
-### 🚀 Featured Projects
-Check my pinned repositories to see practical security tools and automation solutions I'm building.
+### 🛡️ Areas of Interest
 
-**Currently focused on**:
-- Linux monitoring and compliance auditing tools
-- Automated security auditing scripts
-- Network hardening and infrastructure security
+* [cite_start]**SaaS Architecture**: Multi-tenancy, scalability, and high-volume data processing[cite: 99, 100].
+* [cite_start]**Security Automation**: Building self-healing and secure-by-design backend infrastructures[cite: 10, 97].
+* [cite_start]**Fintech & Lead Gen**: Optimizing financial flows and real-time data validation[cite: 65, 99].
+
 
 ---
 
@@ -40,4 +36,5 @@ Check my pinned repositories to see practical security tools and automation solu
 [LinkedIn](https://www.linkedin.com/in/luisalejandroesquivelrojas) | [luisalejandroesquivelrojas@gmail.com](mailto:luisalejandroesquivelrojas@gmail.com)
 
 ---
-*Open to remote opportunities as Junior Cybersecurity Analyst, SOC L1, IT Security Analyst, or Security Automation roles.*
+**Open to remote opportunities as a Junior/Mid Full-Stack Developer, Backend Engineer, or Security-Focused Developer.**
+[cite_start]*Target Rate: $15 - $20 USD/hour*[cite: 57, 59].
